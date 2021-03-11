@@ -60,7 +60,7 @@ html, body {
   width: 100%;
   padding: 0;
   margin: 0;
-  background: url(images/Bricks%20Yellow.jpg)
+  background: url(images/white%20brick%20background.jpg)
       center center fixed no-repeat;
 	background-size: cover;
 	
@@ -70,9 +70,9 @@ html, body {
     width: 800px;
 	padding: 2%;
     margin: 100px auto;
- 	background: rgba(0, 150, 178, .75); /*this uses opacity of 75% for the background color*/
+ 	background: rgba(219, 211, 216, .70); /*this uses opacity of 75% for the background color*/
 	text-align: center;
-	border: 4px dashed white;
+	border: 4px white;
 }
 
    
@@ -86,14 +86,14 @@ h1 {
 	font-family: optima, serif;
 	font-size:2em;
     margin: 0px auto 10px auto;
-    color: #fff;
+    color: #000;
 }
 
 h2 {
 	font-family: optima, serif;
 	font-size: 1.5em;
     line-height: 1.4;
-    color: #fff;
+    color: #000;
     padding: 0px 0px;
     margin: 0px auto 25px auto;
 }
@@ -102,7 +102,7 @@ p {
 	/* FONT-FAMILY GOES HERE CHOOSE FROM ADOBE FONTS OR GOOGLE FONTS */		;
 	font-size: 1.2em;
     line-height: 1.6;
-    color: #fff;
+    color: #000;
 }
 
 nav{
@@ -125,12 +125,12 @@ nav a{
 }
 
 a{
-    color:#444;
+    color: rgb(148, 132, 155);
     text decoration: none;
     font-weight: bold;
 }
 a:hover{
-    color:black;
-    background:pink;
+    color: black;
+    background:rgb(160, 170, 178);
 }
 
