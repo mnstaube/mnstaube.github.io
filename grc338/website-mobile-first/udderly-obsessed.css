@@ -1,0 +1,146 @@
+html, body, div, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit;}
+
+img {
+	width: 100%;
+	display: block
+}
+
+body {
+	background-color: rgb(241, 251, 252);
+	color: rgb(30, 30, 30);
+	line-height: 120%;
+	font-family: skolar-sans-pe, sans-serif;
+	font-weight: 200;
+	font-style: normal;
+	margin: 0rem 2rem 1rem 2rem;
+	font-size: 1em;
+}
+
+h1 {
+	width: 80%;
+}
+
+h2 {
+	background-color: rgb(241, 251, 252);
+	color: rgb(67, 11, 46);
+	font-size: 3em;
+	margin: 0rem 2rem 2rem 0rem;
+    font-family: skolar-sans-latin-compressed, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    text-transform: lowercase;
+    letter-spacing: .05em;
+}
+
+h3 {
+	margin: 2rem 3rem 2rem 0rem;
+	line-height: 300% padding-top: 1em;
+	font-size: 2em;
+	color: rgb(67, 11, 46);
+	font-family: skolar-sans-latin-extended, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	text-transform: uppercase;
+}
+
+h4 {
+	margin: 1rem 2rem .5rem 0rem;
+	font-size: 1.5em;
+	color: rgb(67, 11, 46);
+	font-family: skolar-sans-latin-compressed, sans-serif;
+	font-weight: 900;
+	font-style: italic;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+}
+
+h5 {
+	margin: 1rem 3rem .5rem 0rem;
+	font-size: 1.2em;
+	color: rgb(67, 11, 46);
+	font-family: skolar-sans-latin-compressed, sans-serif;
+	font-weight: 900;
+	font-style: italic;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+div.mainimage {
+    width: 100%;  
+    margin: auto;
+    padding-top: 1.75rem
+}
+
+ul {
+	margin: 1rem 1rem 2rem;
+	font-family: skolar-sans-latin-compressed, sans-serif;
+	font-weight: 900;
+	font-style: italic;
+}
+
+li {
+	margin: 2rem 2rem;
+	background-color: rgb(241, 251, 252);
+	color: rgb(30, 30, 30);
+	line-height: 140%;
+	font-family: skolar-sans-pe, sans-serif;
+	font-weight: 200;
+	font-style: normal;
+	list-style: none;
+}
+
+nav ul li {
+	display: inline;
+	list-style-type: none;
+	font-family: skolar-sans-latin-condensed, sans-serif;
+	font-weight: 600;
+	font-style: normal;
+	letter-spacing: .1em;
+	font-size: 2em;
+	margin: 2rem .3rem 2rem;
+	text-transform: lowercase;
+}
+
+nav ul {
+	text-align: left;
+	margin: 0rem 0rem 2rem;
+}
+
+nav ul li a {
+	color: rgb(203, 153, 201);
+	text-decoration: none;
+}
+
+nav ul li a:hover {
+	color: rgb(67, 11, 46);
+}
+
+p.price {
+	color: rgb(67, 11, 46);
+	font-weight: bold;
+	font-size: .85em;
+}
+
+footer {
+	padding: 5rem 5rem 2rem 0rem;
+}
+
+div.footer {
+    width: 4em;
+    padding: 5rem 7rem 0rem 0rem;
+}
+
+p.footer {
+	width: auto;
+	color: rgb(30, 30, 30);
+	line-height: 120%;
+	font-family: skolar-sans-pe, sans-serif;
+	font-weight: 100;
+	font-style: normal;
+	display: inline;
+	font-size: .2em;
+	margin: 0rem .3rem;
+}
+
+/*Please don’t change this CSS stylesheet for the content hierarchy assginment */
