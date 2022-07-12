@@ -1,0 +1,77 @@
+/*CSS document*/
+
+body {
+font-family: finalsix, sans-serif;
+font-weight: 200;
+font-style: normal;
+margin-right: 2em;
+margin-left: 2em;
+}
+
+div.container {
+    max-width: 40em;
+    margin: auto;
+}
+
+figure {
+    margin: 0;
+}
+
+img {
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    list-style-type: none;
+    margin: 2rem .5rem 2rem;
+    font-family: finalsix, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+nav ul {
+    margin: 0rem 0rem 1.5rem;
+}
+
+nav ul li a {
+    color: rgb(70, 127, 176);
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: rgb(181, 185, 238);
+}
+
+h2 {
+    font-family: bd-retrocentric, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(156, 37, 96);
+}
+
+section.noimage h3 {
+    font-family: bd-retrocentric, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.3em;
+    text-decoration: none;
+    color: rgb(156, 37, 96);
+}
+
+section.noimage p{
+    color: rgb(20,20,20);
+}
+
+main h3 p{
+    text-decoration: none;
+}
+figure figcaption {
+    font-weight: bold;
+}
+
