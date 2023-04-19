@@ -1,1 +1,137 @@
 
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>GRC 322: Typeface comparison</title>
+        <link rel="stylesheet" href="style.css">
+		<link rel="stylesheet" href="https://use.typekit.net/zkf6aoe.css"> <!-- Link to your typekit project -->
+    </head>
+    <body>
+
+		<div class="container">
+
+        <h1>Bodoni vs. Didot </h1>
+             <h2>History of each typeface</h2>
+
+			 <h3>Didot</h3> <!-- Older typeface first, please. -->
+             <p>Didot has been a typeface being used and implemented into the print and later digital industry for over 100 years. The typeface was created by Firmin Didot who was heavily immersed in the print world during the early 1800s. The Didot family built a dynasty of French printers, which inspired Firmin Didot to produce a typeface from his expertise in the print world. The typeface is often named the first Modern typeface. Didot has been used for the CBS News, and the logotype for The Late Show with Stephen Colbert. This typeface has been often associated with luxury, leading to many fashion publications to use this typeface. Today, Linotype Didot offers a variety of twelve different weights, expanding from its original origins in the early 1800s in France. Currently, Vogue utilizes Didot’s typeface, proving its long lasting legacy. There are a few different typefaces that this family produced but the most famous of these were designed between 1784-1811 in Paris. Firmin Didot cut and cast the letters and Pierre Didot would print with those type pieces. This typeface was designed with increased stroke contrast, condensed armature, hairline strokes, vertical stress, and flat, unbracketed serifs. It is considered a neoclassical serif typeface. There are a lot of different variations of Didot and there is not one that can be considered as the original but Firmin spent 27 years experimenting with the design.
+
+			 </p>
+             
+			 <h3>Bodoni</h3> <!-- Second typeface here. -->
+
+             <p>Bodoni is a Modern serif typeface created in 1798 that was adapted and used in publications during the late 1700s. Gianbasttista Bodoni was inspired by typefaces such as Didot. The main characteristics of Bodoni are the extreme contrasting fine serfs and the serifs are 90 degrees. Bodoni drew inspiration from Baskerville. What gave Bodoni its signature look was its “Q” and “J” characters which soon gained popularity during the 1700s. At the time of establishment, Bodoni was cast from metal despite the typeface’s intricate characteristics for the time’s standards. Some popular uses of Bodoni today are the Mama Mia posters which adopted Bodoni’s modern typeface for both film and theater productions. Additionally, popular brands like Giorgio Armani and Calvin Klein select Bodoni as their typeface to help bring to life their brands and communicate to consumers their identities. When the typeface initially was released and popularized within the publishing and print industry, there was a large amount of success and was favored by many due to its intricate, high quality design. However, there were several complaints that there were legibility issues but based on its intended purpose, it achieved its impressively intricate design and was not necessarily aiming to be implemented as a practical typeface.</p>
+
+			    
+			<h2>Comparison</h2>
+			<figure>
+				<img src="images/layeredtext.png"
+					 alt="The typefaces, Bodoni and Didot overlaid on top of eachother in different colors.">
+				<figcaption>The most noticible difference here is the difference in x-height.</figcaption>
+			</figure>
+			<p>There are subtle, yet noticeable differences between these two typefaces. One main difference is that the hairline strokes for Didot are thinner than those of Bodoni. Furthermore, the counters of Didot have more space, whereas the counters are narrower in Bodoni. The x-height of Bodoni is shorter than that of Didot. In Bodoni there is a use of a ball terminal whereas the terminal for Didot is a teardrop shape. The overall strokes of Bodoni are also thicker in comparison to Didot. </p>
+			<h3>Similarities</h3>
+			<p>As both typefaces are Modern, they share many similarities, such as strong contrast between thick and thin stroke, hairline serifs, and vertical stress.</p>	
+			<figure>
+				<img src="images/lowercaseO-similar.png"
+					 alt="Image of a lowercase o in both fonts.">
+				<figcaption>You can see that the 'o' in both typefaces have a vertical stress.</figcaption>
+			</figure>
+			
+			<figure>
+				<img src="images/uppercaseK-similar.png"
+					 alt="Image of an uppercase K in both fonts.">
+				<figcaption>Notice the high contrast between the thicks and thins in the 'K' of both typefaces.</figcaption>
+			</figure>
+		
+			<!-- Use as many images as you need. -->
+
+             <h3>Differences</h3>
+
+			 <figure>
+				<img src="images/uppercase-differences.png"
+					 alt="Image of the uppercase J and G in both fonts.">
+				<figcaption>The descender dips below the baseline in the uppercase 'J' in Bodoni but not in Didot. Also notice that Bodoni has a shorter cap height and no spur in the uppercase 'G.'</figcaption>
+			</figure>
+			
+			<figure>
+				<img src="images/lowercase-differences.png"
+					 alt="Image of the lowercase c and a in both fonts.">
+				<figcaption>The Didot 'c' has a teardrop termiinal while Bodoni has a ball terminal. The bowl in the lowercase 'a' for Didot connects to the stem with a curved stroke while the bowl in Bodoni connects at an angle. Bodoni has an overall shorter x-height than Didot.</figcaption>
+			</figure>
+            
+			<figure>
+				<img src="images/letterw.png"
+					 alt="Image of the uppercase W in both fonts.">
+				<figcaption>The Bodoni 'W' has four upper terminals while Didot has three.</figcaption>
+			</figure>
+            
+			<figure>
+				<img src="images/letterq.png"
+					 alt="Image of the letter Q of both fonts.">
+				<figcaption>Notice the tail in the Q of Didot has a teardrop shape while the Q of Bodoni has a curve and is directly below the base of the letter. </figcaption>
+			</figure>
+            
+			<figure>
+				<img src="images/numbers.png"
+					 alt="Image of the numbers 1-9 of both fonts.">
+				<figcaption>The Didot numbers are considered Oldstyle as they do not all share a cap line or baseline. The Bodoni numbers are Inline and are consistent with their cap line and baseline.</figcaption>
+			</figure>
+            
+			<figure>
+				<img src="images/punctuation.png"
+					 alt="Image of punctuation of both fonts.">
+				<figcaption>Notice the differences in punctuation. Especially how the Bodoni comma curves a lot more at the bottom. The exclamation point curves more at the top in Didot while the Bodoni mark is pointed. The dollar sign has ball terminals in Bodoni and Didot uses serifs. </figcaption>
+			</figure>
+
+			<!-- Use as many images as you need. -->
+
+            <h2>Examples and visual references</h2>
+
+			<h3>Didot</h3> <!-- Older typeface first, please. -->
+             
+			<figure>
+				<img src="images/cbsdidot.png"
+					 alt="Images of CBS logo and other advertisments.">
+				<figcaption>CBS uses Didot in their logo and advertisements.</figcaption>
+			</figure>
+
+			<figure>
+				<img src="images/bodoni-vogue.png"
+					 alt="Pictures of Vogue Magazine">
+				<figcaption>Vogue, a popular fashion and lifestyle magazine uses Bodoni for its logo, which can be seen on the front page of their magazines.</figcaption>
+			</figure>
+            
+			<figure>
+				<img src="images/didot-armani.png"
+					 alt="Image of Giorgio Armani's products.">
+				<figcaption>Georgio Armani uses Didot in their logo and on their products to convey luxury.</figcaption>
+			</figure>
+			
+            
+			<!-- Use as many images as you need. -->
+
+             
+			<h3>Bodoni</h3> <!-- Second typeface here. -->
+
+			<figure>
+				<img src="images/langosteria.png"
+					 alt="Image of the Langosteria logo and bool products">
+				<figcaption>Langosteria changed their logo to use Bodoni to convey that the restaurant is more expensive/higher quality.</figcaption>
+			</figure>
+			
+			
+			<figure>
+				<img src="images/cklogo.png"
+					 alt="Image of the Calvin Klein Logo.">
+				<figcaption>Calvin Klein logo.</figcaption>
+			</figure>
+
+			<!-- Use as many images as you need. -->
+
+	</div>
+    </body>
+</html>
